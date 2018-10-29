@@ -79,3 +79,20 @@ theme: hexo-theme-xups
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#----------------------------
+# Configuração de menu
+#----------------------------
+menu:
+  home:
+    name: Home
+    link: /
+    icon: icon-home
+  about:
+    name: Sobre
+    link: /about/
+    icon: icon-about
+  comment:
+    name: Contato
+    link: /comment/
+    icon: icon-comment
